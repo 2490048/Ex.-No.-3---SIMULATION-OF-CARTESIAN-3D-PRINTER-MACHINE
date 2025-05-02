@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/user-attachments/assets/49a5d9ab-5660-48f5-9927-4e20dfb95f18)
+
+
+### Name: RAHUL RP
+### Register Number:212224240125
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
